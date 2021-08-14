@@ -35,7 +35,6 @@ const rafael = {
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelswitek&layout=compact&langs_count=10&theme=dark"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=rafaelswitek" alt="rafaelswitek" />
   
 ##
  <h3> 🤝🏻 Connect with Me </h3>
@@ -52,3 +51,5 @@ const rafael = {
   ![Snake animation](https://github.com/rafaelswitek/rafaelswitek/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+</br>
+<img src="https://komarev.com/ghpvc/?username=rafaelswitek" alt="rafaelswitek" />
