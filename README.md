@@ -4,9 +4,10 @@
 
 >Don't panic, may the force make you live long and prosper, and be excellent to each other.
 
+>🎬🎮📚🎧☕
 ```javascript
 const rafael = {
-    thingsILove: ["🖥️ Tech", "🎮 Games", "🎬 Movies & TV Shows & Animes", "📚 Books & HQs & Mangas", "🎧 Music", "☕ Coffee"],
+    thingsILove: ["Tech", "Games", "Movies & TV Shows & Animes", "Books & HQs & Mangas", "Music & Podcasts", "Coffee"],
     alias: 'RafaelSwitek',
     age: new Date().getFullYear() - 1995,
     education: ["B.Sc. in Computer Science", "Certification in Data Science and Big Data Analytics"],
