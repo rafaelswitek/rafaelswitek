@@ -32,7 +32,8 @@ const rafael = {
  <div align="center"
   <a href="https://github.com/rafaelswitek">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelswitek&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelswitek&layout=compact&langs_count=10&theme=dark"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelswitek&layout=compact&langs_count=10&theme=dark"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rafaelswitek&theme=dark"/>
   </a>
 </div>
   
