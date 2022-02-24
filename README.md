@@ -1,6 +1,6 @@
 ### Hello World, I'm Rafael 👨‍💻
 
-> FullStack Developer at [Grupo Competi](https://competisistemas.com.br/) and [Emitte](https://emitte.com.br/)
+> Software Engineer at BoaCompra by PagSeguro PagBank
 
 >Don't panic, may the force make you live long and prosper, and be excellent to each other.
 
