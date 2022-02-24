@@ -1,6 +1,6 @@
 ### Hello World, I'm Rafael 👨‍💻
 
-> Software Engineer at BoaCompra by PagSeguro PagBank
+> Software Engineer at BoaCompra by PagSeguro
 
 >Don't panic, may the force make you live long and prosper, and be excellent to each other.
 
