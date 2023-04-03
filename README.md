@@ -44,7 +44,7 @@ const rafael = {
 <a href="https://www.linkedin.com/in/rafaelswitek" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@rafaelswitek-blue?style=flat&logo=linkedin"></a>
  <a href="https://gitlab.com/competi_rafael" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-@competi_rafael-blue?style=flat&logo=GitLab"></a>
  <a href="https://instagram.com/rafaelswitek" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@rafaelswitek-blue?style=flat&logo=Instagram"></a>
-<a href="https://facebook.com/rafaelswitek0" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-@rafaelswitek-blue?style=flat&logo=Facebook"></a>
+<a href="https://facebook.com/rafaelswitek" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-@rafaelswitek-blue?style=flat&logo=Facebook"></a>
 <a href="https://steamcommunity.com/id/rafaelswitek" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-@rafaelswitek-blue?style=flat&logo=Steam"></a>
 </p>
 <div> 
